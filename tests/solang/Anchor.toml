@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-Flipper = "F1ipperKF9EfD821ZbbYjS319LXYiBmjhzkkf5a26rC"
+flipper = "F1ipperKF9EfD821ZbbYjS319LXYiBmjhzkkf5a26rC"
 
 [provider]
 cluster = "Localnet"

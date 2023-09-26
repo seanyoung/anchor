@@ -1,6 +1,6 @@
 
 @program_id("F1ipperKF9EfD821ZbbYjS319LXYiBmjhzkkf5a26rC")
-contract Flipper {
+contract flipper {
     bool private value = true;
 
     @payer(payer)
